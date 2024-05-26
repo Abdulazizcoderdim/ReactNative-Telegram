@@ -25,4 +25,3 @@ export default function TabsNavigator() {
     </Tabs>
   );
 }
-// 30:00
